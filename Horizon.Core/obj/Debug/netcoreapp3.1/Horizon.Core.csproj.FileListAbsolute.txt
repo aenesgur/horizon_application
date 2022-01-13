@@ -1,0 +1,9 @@
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Core\bin\Debug\netcoreapp3.1\Horizon.Core.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Core\bin\Debug\netcoreapp3.1\Horizon.Core.dll
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Core\bin\Debug\netcoreapp3.1\Horizon.Core.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Core\obj\Debug\netcoreapp3.1\Horizon.Core.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Core\obj\Debug\netcoreapp3.1\Horizon.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Core\obj\Debug\netcoreapp3.1\Horizon.Core.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Core\obj\Debug\netcoreapp3.1\Horizon.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Core\obj\Debug\netcoreapp3.1\Horizon.Core.dll
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Core\obj\Debug\netcoreapp3.1\Horizon.Core.pdb

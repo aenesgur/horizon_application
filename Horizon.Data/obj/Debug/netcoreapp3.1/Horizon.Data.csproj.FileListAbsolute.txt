@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\bin\Debug\netcoreapp3.1\Horizon.Data.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\bin\Debug\netcoreapp3.1\Horizon.Data.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\bin\Debug\netcoreapp3.1\Horizon.Data.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\bin\Debug\netcoreapp3.1\Horizon.Data.dll
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\bin\Debug\netcoreapp3.1\Horizon.Data.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\bin\Debug\netcoreapp3.1\Horizon.Core.dll
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\bin\Debug\netcoreapp3.1\Horizon.Core.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\obj\Debug\netcoreapp3.1\Horizon.Data.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\obj\Debug\netcoreapp3.1\Horizon.Data.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\obj\Debug\netcoreapp3.1\Horizon.Data.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\obj\Debug\netcoreapp3.1\Horizon.Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\obj\Debug\netcoreapp3.1\Horizon.Data.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\obj\Debug\netcoreapp3.1\Horizon.Data.dll
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\obj\Debug\netcoreapp3.1\Horizon.Data.pdb
+C:\Users\Asus\OneDrive\Masaüstü\Horizon\Horizon\Horizon.Data\obj\Debug\netcoreapp3.1\Horizon.Data.genruntimeconfig.cache
